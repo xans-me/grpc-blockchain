@@ -1,6 +1,6 @@
 ## Example Blockchain with gRPC 
 
-this project is a simple example of how `blockchain` works. in this case the `gRPC` call procedure is because `gRPC` uses `HTTP 2.0`, which makes the data exchange process faster than using the `API call` procedure in general.
+this project is a simple example of how `blockchain` works. in this case using the `gRPC` call procedure is because `gRPC` uses `HTTP 2.0`, which makes the data exchange process faster than using the `API call` procedure in general.
 
 ### How to Run :
 1. run `go mod tidy` first to get needed package.  
